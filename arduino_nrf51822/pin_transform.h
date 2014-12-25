@@ -28,7 +28,7 @@
 #ifndef _PIN_TRANSFORM_H
 #define _PIN_TRANSFORM_H
 
-#include "../arduino/Arduino.h"
+#include "Arduino.h"
 
 #ifdef __cplusplus
 extern "C" {

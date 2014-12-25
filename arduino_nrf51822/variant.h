@@ -53,9 +53,9 @@
  *        Headers
  *----------------------------------------------------------------------------*/
 
-#include "../arduino/Arduino.h"
+#include "Arduino.h"
 #ifdef __cplusplus
-#include "../arduino/UARTClass.h"
+#include "UARTClass.h"
 //#include "USARTClass.h"
 #endif
 

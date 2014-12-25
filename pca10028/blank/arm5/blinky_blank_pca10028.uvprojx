@@ -365,7 +365,7 @@
               <MiscControls>--cpp</MiscControls>
               <Define>NRF51 BSP_DEFINES_ONLY BOARD_NRF6310 ARDUINO __SAM3X8E__</Define>
               <Undefine></Undefine>
-              <IncludePath></IncludePath>
+              <IncludePath>..\..\..\arduino;..\..\..\arduino_nrf51822</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

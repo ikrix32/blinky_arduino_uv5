@@ -23,7 +23,7 @@
     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
     SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
-#include "../arduino/Arduino.h"
+#include "Arduino.h"
 
 #ifdef __cplusplus
 extern "C" {

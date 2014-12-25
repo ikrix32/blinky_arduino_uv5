@@ -1,0 +1,10 @@
+.\_build\wstring.o: ..\..\..\arduino\WString.cpp
+.\_build\wstring.o: ..\..\..\arduino\WString.h
+.\_build\wstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\_build\wstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\_build\wstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\_build\wstring.o: ..\..\..\arduino\avr/pgmspace.h
+.\_build\wstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\_build\wstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\wstring.o: ..\..\..\arduino\itoa.h
+.\_build\wstring.o: ..\..\..\arduino\dtoa.h

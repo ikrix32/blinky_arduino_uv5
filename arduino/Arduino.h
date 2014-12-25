@@ -34,7 +34,7 @@
 #include "itoa.h"
 
 // Include board variant
-#include "../arduino_nrf51822/variant.h"
+#include "variant.h"
 
 #ifdef __cplusplus
 extern "C"{

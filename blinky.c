@@ -18,7 +18,7 @@
  * @brief Blinky Example Application main file.
  *
  */
-#include "arduino/Arduino.h"
+#include "Arduino.h"
 
 void setup()
 {
